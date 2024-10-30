@@ -1,0 +1,598 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Image Hover Effects For Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-05 09:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4"
+
+#: includes/ihem-elementor-widget.php:306
+#: includes/ihem-elementor-widget.php:427
+#: includes/ihem-elementor-widget.php:460
+msgid " Style"
+msgstr ""
+
+#. 1: Plugin name 2: Elementor
+#: includes/base.php:77
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:77
+msgid "Awesome Heading"
+msgstr ""
+
+#. Author of the plugin
+msgid "AZ Plugins"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:580
+#: includes/ihem-elementor-widget.php:669
+msgid "BG Color"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:194
+msgid "blur"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:650
+#: includes/ihem-elementor-widget.php:737
+msgid "Border"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:223
+#: includes/ihem-elementor-widget.php:240
+#: includes/ihem-elementor-widget.php:276
+#: includes/ihem-elementor-widget.php:464
+#: includes/ihem-elementor-widget.php:510
+msgid "Bottom to top"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:848
+msgid "Box Shadow"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:139
+msgid "Circle"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:747
+msgid "Circle Effect Styling"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:67
+msgid "Content"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:479
+msgid "Control the position of inner image"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:849
+msgid "Customize the circle color, size , opacity, spread etc"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:767
+msgid "Dashed"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:658
+msgid "Desc Options"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:679
+msgid "Desc Text Color"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:85
+msgid "Description"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:861
+msgid "Dot Color"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:766
+msgid "Dotted"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:765
+msgid "Double"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:324
+msgid "Effect 1"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:325
+msgid "Effect 2"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:326
+msgid "Effect 3"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:327
+msgid "Effect 4"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:195
+msgid "effect 45"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:196
+msgid "effect 46"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:197
+msgid "effect 47"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:198
+msgid "effect 48"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:199
+msgid "effect 49"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:328
+msgid "Effect 5"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:200
+msgid "effect 50"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:201
+msgid "effect 51"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:202
+msgid "effect 52"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:203
+msgid "effect 53"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:204
+msgid "effect 54"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:205
+msgid "effect 55"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:329
+msgid "Effect 6"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:330
+msgid "Effect 7"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:331
+msgid "Effect 8"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:332
+msgid "Effect 9"
+msgstr ""
+
+#: includes/base.php:79
+msgid "Elementor"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:151
+msgid "fade"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:170
+msgid "flip-diag-1"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:171
+msgid "flip-diag-2"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:168
+msgid "flip-horiz"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:169
+msgid "flip-vert"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:183
+msgid "fold-down"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:184
+msgid "fold-left"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:185
+msgid "fold-right"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:182
+msgid "fold-up"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:274
+#: includes/ihem-elementor-widget.php:508
+msgid "From left and right"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:273
+msgid "From top and_bottom"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:542
+msgid "General Styling"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:768
+msgid "Groove"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:366
+msgid "Height (px)"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:165
+msgid "hinge-down"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:166
+msgid "hinge-left"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:167
+msgid "hinge-right"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:164
+msgid "hinge-up"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:560
+msgid "Hover Content BG Color"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://demo.azplugins.com/image-hover-effects/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://azplugins.com"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:120
+msgid "https://your-link.com"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:95
+msgid "Image"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:29
+msgid "Image Hover Effects"
+msgstr ""
+
+#. Name of the plugin
+#: includes/base.php:78
+msgid "Image Hover Effects For Elementor"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:478
+msgid "Inner Image Vertical  Position"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:550
+msgid "Item Options"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:221
+msgid "Left and right"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:256
+#: includes/ihem-elementor-widget.php:526
+msgid "Left to right"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:87
+msgid "Life is too important to be taken seriously!"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:118
+msgid "Link To"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:619
+#: includes/ihem-elementor-widget.php:708
+msgid "Margin"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:763
+msgid "None"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:634
+#: includes/ihem-elementor-widget.php:722
+msgid "Padding"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:153
+msgid "push-down"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:154
+msgid "push-left"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:155
+msgid "push-right"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:152
+msgid "push-up"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:161
+msgid "reveal-down"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:162
+msgid "reveal-left"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:163
+msgid "reveal-right"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:160
+msgid "reveal-up"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:257
+#: includes/ihem-elementor-widget.php:527
+msgid "Right to left"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:293
+msgid "Scale down"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:292
+msgid "Scale up"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:446
+msgid "scale_down"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:447
+msgid "scale_down_up"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:445
+msgid "scale_up"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:148
+#: includes/ihem-elementor-widget.php:321
+msgid "Select Effect"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:505
+msgid "Select Effect-13 Style"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:523
+msgid "Select Effect-16 Style"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:218
+msgid "Select Effect-45 Style"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:236
+msgid "Select Effect-47 Style"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:253
+msgid "Select Effect-49 Style"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:270
+msgid "Select Effect-50 Style"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:289
+msgid "Select Effect-52 Style"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:442
+msgid "Select Effect-6 Style"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:176
+msgid "shutter-in-horiz"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:180
+msgid "shutter-in-out-diag-1"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:181
+msgid "shutter-in-out-diag-2"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:178
+msgid "shutter-in-out-horiz"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:179
+msgid "shutter-in-out-vert"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:177
+msgid "shutter-in-vert"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:174
+msgid "shutter-out-diag-1"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:175
+msgid "shutter-out-diag-2"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:172
+msgid "shutter-out-horiz"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:173
+msgid "shutter-out-vert"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:157
+msgid "slide-down"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:158
+msgid "slide-left"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:159
+msgid "slide-right"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:156
+msgid "slide-up"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:764
+msgid "Solid"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:831
+msgid "Spinner Border Bottom Color"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:783
+msgid "Spinner Border Left Color"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:815
+msgid "Spinner Border Right Color"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:760
+msgid "Spinner Border Style"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:799
+msgid "Spinner Border Top Color"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:407
+msgid "Spinner Height (px)"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:388
+msgid "Spinner Width (px)"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:138
+msgid "Square"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:590
+msgid "Text Color"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin will allow you to easily implement scaleable image hover effects."
+" You can choose hover effects from 40+ different effects and also there is a "
+"lot of customizing options to meet your need."
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:390
+#: includes/ihem-elementor-widget.php:410
+msgid "This width should be 10px larger than the item width"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:75
+msgid "Title"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:569
+msgid "Title Options"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:222
+#: includes/ihem-elementor-widget.php:239
+#: includes/ihem-elementor-widget.php:275
+#: includes/ihem-elementor-widget.php:463
+#: includes/ihem-elementor-widget.php:509
+msgid "Top to bottom"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:134
+msgid "Type"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:609
+#: includes/ihem-elementor-widget.php:698
+msgid "Typography"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:345
+msgid "Width (px)"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:186
+msgid "zoom-in"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:187
+msgid "zoom-out"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:189
+msgid "zoom-out-down"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:192
+msgid "zoom-out-flip-horiz"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:193
+msgid "zoom-out-flip-vert"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:190
+msgid "zoom-out-left"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:191
+msgid "zoom-out-right"
+msgstr ""
+
+#: includes/ihem-elementor-widget.php:188
+msgid "zoom-out-up"
+msgstr ""
